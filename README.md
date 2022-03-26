@@ -6,3 +6,5 @@ calc.wds：示例wds文件，用于启动calc<br>
 shellcode2wds.py：处理脚本，将处理后的shellcode转为wds格式<br>
 
 参考文章(使用说明)：https://ryze-t.com/2022/03/23/cdb%E6%89%A7%E8%A1%8Cshellcode.html
+
+真实环境中进行测试前先在同版本虚拟机中测试，若想反弹shell，要用 reverse tcp 的shellcode
